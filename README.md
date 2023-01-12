@@ -1,0 +1,1 @@
+# sbt_http_template
